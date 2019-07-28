@@ -1,0 +1,9 @@
+[submodule "Assets/latkUnity"]
+	path = Assets/latkUnity
+	url = https://github.com/LightningArtist/latkUnity
+[submodule "Assets/latkxExtras"]
+	path = Assets/latkxExtras
+	url = https://github.com/LightningArtist/latkxExtras
+[submodule "Assets/latkxAzureKinect"]
+	path = Assets/latkxAzureKinect
+	url = https://github.com/n1ckfg/latkxAzureKinect
