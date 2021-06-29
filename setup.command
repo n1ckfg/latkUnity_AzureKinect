@@ -16,3 +16,6 @@ git submodule sync
 git submodule foreach git checkout master
 git submodule foreach git reset --hard
 git submodule foreach git pull origin master
+
+BASE_URL="https://fox-gieg.com/patches/github/n1ckfg/latkUnity_AzureKinect"
+wget "$BASE_URL/dnn_model.onnx"
